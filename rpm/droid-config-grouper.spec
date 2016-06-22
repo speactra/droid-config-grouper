@@ -8,7 +8,7 @@
 %define device_pretty Nexus 7 2012 wifi
 
 %define dcd_path ./
-Â
+
 #Adjust this for your device
 %define pixel_ratio 1.325
 
